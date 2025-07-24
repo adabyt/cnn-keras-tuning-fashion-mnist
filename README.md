@@ -99,6 +99,9 @@ cnn-keras-tuning-fashion-mnist/
 ├── random_search_tuning.py      # RandomSearch tuning with KerasTuner
 ├── bayesian_tuning.py           # BayesianOptimization tuning with KerasTuner
 ├── requirements.txt
+│   ├── fashion_mnist_cnn_random_search/
+│   └── fashion_mnist_cnn_bayesian_optimization/
+├── .gitignore
 ├── README.md
 ```
 
