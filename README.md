@@ -98,9 +98,6 @@ Bayesian Optimisation is generally more efficient, but there are reasons why Ran
 cnn-keras-tuning-fashion-mnist/
 ├── random_search_tuning.py      # RandomSearch tuning with KerasTuner
 ├── bayesian_tuning.py           # BayesianOptimization tuning with KerasTuner
-├── keras_tuner_results/
-│   ├── fashion_mnist_cnn_random_search/
-│   └── fashion_mnist_cnn_bayesian_optimization/
 ├── requirements.txt
 ├── README.md
 ```
